@@ -1,0 +1,21 @@
+1. Operators - +,-,*,/
+   Values - 'hello',-88.8,5
+   
+2. Variable - spam
+   String - 'spam'
+   
+3. String,Boolean,Integer
+
+4. Operators and Values together make an expression.
+
+5. Statements doesn't return anything while expression evaluates .
+
+6. bacon = 20
+
+7. spamspamspam
+
+8. Integer can't be a variable name.
+
+9. int(), float(), str()
+
+10. 99 is an integer. To fix , str() should be added before the int value.
