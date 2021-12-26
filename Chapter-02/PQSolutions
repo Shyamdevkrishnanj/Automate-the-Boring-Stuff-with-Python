@@ -1,0 +1,49 @@
+1. TRUE(True) and FALSE(False)
+
+2. and,not and or
+
+3. True and True is True.
+   True and False is False.
+   False and True is False.
+   False and False is False.
+   
+   not True is False.
+   not False is True.
+
+   True or True is True.
+   True or False is True.
+   False or True is True.
+   False or False is False.
+   
+4. 1.False
+   2.False
+   3.True
+   4.False
+   5.False
+   6.True
+   
+5. ==, !=, <, >, <=, >=
+
+6. == - asks whether two values are the same as each other.
+   = - stores value on the right into the variable.
+   
+7. Condition is an expression used to execute a block of code when the given condition is true or false.
+
+8. print('eggs')
+   if spam > 5:
+   print('bacon')
+   else:
+   print('ham')
+   print('spam')
+   
+9. 
+
+10. ctrl+c
+
+11. The break statement exits the loop clause and continue statement jumps back to the start of loop.
+
+12. range(10) - range from 0 to 10
+    range(0 , 10) - tells the loop to start at 0
+    range(0, 10 , 1) - increase the variable by 1 on each loop.
+    
+13.
