@@ -1,0 +1,27 @@
+1. To make a program shorter, easier to read and edit.
+
+2. The code executes when the function is called.
+
+3. def statement.
+
+4. A function is made using a def statement and has a particular code in its clause. Wheras a function call involves calling a defined function to execute.
+
+5. 1 global scope and 1 local scope.
+
+6. After the function returns, all the variables get dismissed as the local scope gets destroyed.
+
+7. Return value is used by a function call. It can be used as a part of an expression.
+
+8. Return value becomes none(None).
+
+9. By using a global statement.
+
+10. NoneType
+
+11. It will import the named module.
+
+12. bacon().
+
+13. We can use try and except clause.
+
+14. Code that might return an error goes into try and If an error happens, the code that got executed goes into except.
